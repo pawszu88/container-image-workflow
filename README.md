@@ -1,0 +1,2 @@
+# container-image-workflow
+A workflow that sets up a CI and delivery pipeline for a Python project containing a Dockerfile
